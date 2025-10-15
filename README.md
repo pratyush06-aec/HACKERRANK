@@ -1,1 +1,1 @@
-My hackerrank solutions
+My hackerrank solutions (Python)
